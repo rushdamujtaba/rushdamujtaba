@@ -1,15 +1,20 @@
-- 👋 Hi, I’m Rushda Mujtaba
-- 👀 I’m interested in Web Deveopment and Cyber-Security
-- 🌱 I’m currently learning Python,HTML,JavaScript.
-- 💞️ I’m looking to collaborate on open-source projects related to Web Development and Cybersecurity. Excited to contribute and learn!
-- 📫 How to reach me 📧 Email: [rushdamujtaba@gmail.com]
-- 💼 LinkedIn: [rushda mujtaba]
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: 💅 "I’m a fan of Korean beauty & fashion, but also love hacking & coding!"
-- 🎯 "Trying to balance Web Dev, Cybersecurity, fitness, and college life—wish me luck!"
-- ☕ "My code runs on caffeine & late-night debugging!"
+-👋 Hey, I'm [Rushda Mujtaba]!  
+🚀 CSE Student | Web Development & Cybersecurity Enthusiast  
 
+### 📌 About Me  
+- 🎓 Studying Computer Science & Engineering (1st Year)  
+- 🌍 Learning **Web Development (HTML, CSS, JavaScript) & Cybersecurity**  
+- 🔍 Exploring **Python for Web & Security**  
+- 💡 Open to Collaboration & Learning  
 
+### 🚀 What I'm Currently Working On  
+- 🛠️ Web Development Projects  
+- 🔒 Learning Cybersecurity Basics (TryHackMe & Linux)  
+- 📚 Improving my Python Skills  
+
+### 📫 How to Reach Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/rushda-mujtaba)  
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=flat-square&logo=github&logoColor=white)](https://github.com/rushdamujtaba)  
 
 <!---
 rushdamujtaba/rushdamujtaba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
