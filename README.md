@@ -1,5 +1,5 @@
 -👋 Hey, I'm [Rushda Mujtaba]!  
-🚀 CSE Student | Web Development & Cybersecurity Enthusiast  
+🚀 CSE Student | Web Development Enthusiast  
 
 ### 📌 About Me  
 - 🎓 Studying Computer Science & Engineering (1st Year)  
@@ -9,7 +9,6 @@
 
 ### 🚀 What I'm Currently Working On  
 - 🛠️ Web Development Projects  
-- 🔒 Learning Cybersecurity Basics (TryHackMe & Linux)  
 - 📚 Improving my Python Skills  
 
 ### 📫 How to Reach Me  
